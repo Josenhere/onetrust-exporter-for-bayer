@@ -1,0 +1,5 @@
+{
+  "environment": "app.onetrust.com",
+  "dbPath": "db",
+  "numberOfDataSubjectsPerPageOfApiResponse": 20
+}
